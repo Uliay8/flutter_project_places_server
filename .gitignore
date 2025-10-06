@@ -1,0 +1,8 @@
+/.dart_tool
+/bin
+/database
+/dependency_diagram.md
+/lib
+/pubspec.lock
+/pubspec.yaml
+/some_commands.txt
