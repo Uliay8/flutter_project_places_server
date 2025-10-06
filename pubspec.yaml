@@ -1,0 +1,17 @@
+name: places_backend
+description: REST API backend for places information
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  shelf: ^1.4.1
+  shelf_router: ^1.1.4
+  shelf_cors_headers: ^0.1.5
+  sqlite3: ^2.4.0
+  path: ^1.8.3
+  http: ^1.1.0
+
+dev_dependencies:
+  lints: ^3.0.0

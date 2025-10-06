@@ -1,8 +1,5 @@
 /.dart_tool
-/bin
-/database
+/*.lock
 /dependency_diagram.md
-/lib
-/pubspec.lock
-/pubspec.yaml
 /some_commands.txt
+database/places.db
